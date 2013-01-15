@@ -1,0 +1,53 @@
+/*-------------------------
+	Simple reset
+--------------------------*/
+*{
+	margin:0;
+	padding:0;
+}
+/*-------------------------
+	General Styles
+--------------------------*/
+html{
+	position:relative;
+}
+
+body{
+    min-height: 600px;
+    padding: 8% 0 0;
+    font:14px/1.3 'Segoe UI',Arial, sans-serif;
+}
+
+a, a:visited {
+	text-decoration:none;
+	outline:none;
+	color:#54a6de;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+section, footer{
+	display: block;
+}
+/*----------------------------
+	Main Section
+-----------------------------*/
+
+#legenda{
+    width:560px; 
+}
+#legenda-mobile{
+    display: none;
+}
+
+@media screen and (max-width: 560px){
+    #legenda{
+        display: none;
+    }    
+    #legenda-mobile{
+        display: inline-block;
+        width:280px; 
+    }
+}

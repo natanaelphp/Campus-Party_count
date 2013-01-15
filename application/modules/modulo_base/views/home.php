@@ -1,0 +1,1 @@
+<?php echo "Apenas uma view"; ?>
