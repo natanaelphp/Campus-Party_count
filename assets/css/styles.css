@@ -96,7 +96,7 @@ width: 119px;
 
 /** Informação para usuário Twittar **/
 #infotwitter #seta {
-    background: url('http://img.ph2-jpg.posthaus.com.br/Web/posthaus//lojas/babysol/seta-cima-lojas-disabled.gif')  no-repeat center center;
+    background: url('../img/seta-cima-lojas-disabled.gif')  no-repeat center center;
     height: 14px;
     margin-top: 5px;
     
