@@ -17,6 +17,10 @@
 	<ul class="social-buttons cf">
             <li><a href="http://twitter.com/share" class="socialite twitter-share" data-text="" data-url="http://vidacubica.com.br/campus-party/" data-count="vertical" rel="nofollow" target="_blank"><span class="vhidden">Share on Twitter</span></a></li>		
 	</ul>
+        <div id="infotwitter">
+            <div id="seta"></div>
+            <span>Clique aqui para <strong>Twittar quanto tempo falta</strong> para a #CPBR6.</span>
+        </div>
 	
 	<script src="assets/js/socialite.min.js"></script>
 	<script>

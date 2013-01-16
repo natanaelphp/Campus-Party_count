@@ -22,7 +22,7 @@ $(function(){
 			message += minutes + " minuto" + ( minutes==1 ? '':'s' ) + " e ";
 			message += seconds + " segundo" + ( seconds==1 ? '':'s' ) + " ";
 			
-                        message += " para Campus Party Brasil 2013! #CPBR6 Eu vou!!!";
+                        message += " para Campus Party Brasil 2013! #CPBR6 Eu vou!!! via ";
                         
                         /*
 			if(newYear){

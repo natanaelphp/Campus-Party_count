@@ -19,18 +19,12 @@ class Home extends MX_Controller {
 	 */
 	public function index()
 	{
-            $this->load->helper('html');
+                $this->load->helper('html');
 		$this->load->view('topo');
 		$this->load->view('conteudo');
 		$this->load->view('rodape');
             
 	}
-        
-        
-        public function outro()
-        {
-            $this->load->view('teste');
-        }
 }
 
 /* End of file welcome.php */
