@@ -37,7 +37,7 @@
         <span class="direitos">Copyright &copy; <?php print date('Y'); ?>.</span>
         <span class="autores"><strong>Créditos:</strong> <a href="http://twitter.com/matheusflauzino" target="_blank">@matheusflauzino</a> e 
             <a href="https://twitter.com/natanael_web" target="_blank">@natanael_web</a></span>
-        <span class="parceiros" style="margin-left: 20px;"><strong>Parceiros:</strong> <a href="https://www.facebook.com/AmarWebDesign" target="_blank">Amar Web</a></span>
+        <span class="parceiros" style="margin-left: 20px;"><strong>Parceiros:</strong> <a href="https://www.facebook.com/AmarWebDesign" target="_blank">Amar Web</a> e <a href="http://vidacubica.com.br" target="_blank">Vida Cubica</a></span>
         
     </div>
     <script type="text/javascript">stLight.options({publisher: "ur-281389d-706d-a415-9e4d-15c8fcf2bedb"});</script>
