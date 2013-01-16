@@ -15,7 +15,7 @@
     <div id="share">
        
 	<ul class="social-buttons cf">
-            <li><a href="http://twitter.com/share" class="socialite twitter-share" data-text="" data-url="http://bit.ly/XC8NWm" data-count="vertical" rel="nofollow" target="_blank"><span class="vhidden">Share on Twitter</span></a></li>		
+            <li><a href="http://twitter.com/share" class="socialite twitter-share" data-text="" data-url="http://vidacubica.com.br/campus-party/" data-count="vertical" rel="nofollow" target="_blank"><span class="vhidden">Share on Twitter</span></a></li>		
 	</ul>
 	
 	<script src="assets/js/socialite.min.js"></script>
