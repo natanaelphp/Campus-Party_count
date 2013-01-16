@@ -9,13 +9,17 @@
 	General Styles
 --------------------------*/
 html{
-	position:relative;
+    position:relative;
 }
 
 body{
-    min-height: 600px;
+    min-height: 500px;
     padding: 8% 0 0;
     font:14px/1.3 'Segoe UI',Arial, sans-serif;
+}
+
+#geral {
+    text-align: center;
 }
 
 a, a:visited {
@@ -31,23 +35,72 @@ a:hover{
 section, footer{
 	display: block;
 }
+
+
 /*----------------------------
 	Main Section
 -----------------------------*/
 
 #legenda{
     width:560px; 
+    margin: 0 auto;
 }
+
+#legenda span {
+/*background: #ccc;*/
+width: 119px;
+  display: block;
+  float: left;
+  /* margin: 5px 10px; */
+  margin: .8em .6em;
+  font-size: 1.2em;
+  color: #09F;
+}
+
 #legenda-mobile{
     display: none;
+    margin: 0 auto;
+}
+
+.clear {
+    clear: both;
+}
+
+#logo-campus {
+  margin-bottom: 60px;
+}
+
+#contador {
+     margin-bottom: 20px;
+}
+
+#share {
+  height: 12em;
+}
+
+#creditos {
+  font-size: .9em;
+  color: #666;
+  padding: 15px 10px 5px 10px;
+  margin-bottom: 0;
+  
+}
+
+#creditos span.direitos {
+  display: block;
+}
+
+#creditos span.autores {
+  display: block;
 }
 
 @media screen and (max-width: 560px){
-    #legenda{
-        display: none;
-    }    
-    #legenda-mobile{
-        display: inline-block;
+    #legenda {
         width:280px; 
+    }
+    #legenda span {
+      margin: 3px 6px;
+      font-size: 1em;
+      width: 4.1em;
     }
 }

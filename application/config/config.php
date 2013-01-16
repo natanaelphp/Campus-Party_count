@@ -14,7 +14,10 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '';
+$config['base_url']	= 'http' 
+        . ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') ? 's' : '') 
+        . '://' . $_SERVER['HTTP_HOST'] 
+        . str_replace('//', '/', dirname($_SERVER['SCRIPT_NAME']) . '/');
 
 /*
 |--------------------------------------------------------------------------
@@ -69,7 +72,7 @@ $config['url_suffix'] = '';
 | than english.
 |
 */
-$config['language']	= 'pt-br';
+$config['language']	= 'english';
 
 /*
 |--------------------------------------------------------------------------
@@ -224,7 +227,7 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = '';
+$config['encryption_key'] = 'countcpb2013';
 
 /*
 |--------------------------------------------------------------------------
@@ -356,6 +359,11 @@ $config['rewrite_short_tags'] = FALSE;
 |
 */
 $config['proxy_ips'] = '';
+
+
+$config['modules_locations'] = array(
+    APPPATH.'modules/' => '../modules/',
+);
 
 
 /* End of file config.php */
