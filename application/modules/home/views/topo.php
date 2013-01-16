@@ -5,6 +5,7 @@
         <meta name="description" content="É um contador regressivo, integrado com o Twitter, para o maior acontecimento tecnológico do mundo, que é a Campus Party. Criada há 16 anos na Espanha, ela atrai anualmente geeks, nerds, empreendedores, gamers, cientistas e muitos outros criativos que reúnem-se para acompanhar centenas de atividades sobre Inovação, Ciência, Cultura e Entretenimento Digital. Essa pequena ferramenta tem o intuito de twittar o tempo regressivo para tal evento. ">
         <meta name="keywords" content="campus party, cpbr6, contador regressivo, campus party 2013, twitter"> 
         <meta name="author" content="Matheus Antônio Flauzino e Natanael Colacino">
+        <meta name="google-site-verification" content="7dL6_fehcI6ubwFobtcYOlsItKiGFIi6DZyYwyD3GNA" />
         <link rel="shortcut icon" href="assets/img/favicon.ico" />
         <title>Contagem regressiva para a Campus Party</title>
         
