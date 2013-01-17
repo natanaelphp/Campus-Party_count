@@ -19,7 +19,7 @@
 	</ul>
         <div id="infotwitter">
             <div id="seta"></div>
-            <span>Clique aqui para <strong>Twittar quanto tempo falta</strong> para a #CPBR6.</span>
+            <span>Clique no botão acima para <strong>Twittar quanto tempo falta</strong> para a #CPBR6.</span>
         </div>
 	
 	<script src="assets/js/socialite.min.js"></script>
