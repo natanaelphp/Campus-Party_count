@@ -15,7 +15,7 @@ $(function(){
 		timestamp	: ts,
 		callback	: function(days, hours, minutes, seconds){
 			
-			var message = "Falta exatamente ";
+			var message = "Faltam exatamente ";
 			
 			message += days + " dia" + ( days==1 ? '':'s' ) + ", ";
 			message += hours + " hora" + ( hours==1 ? '':'s' ) + ", ";
