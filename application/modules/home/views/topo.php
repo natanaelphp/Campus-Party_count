@@ -2,6 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width">
         <meta name="description" content="É um contador regressivo, integrado com o Twitter, para o maior acontecimento tecnológico do mundo, que é a Campus Party. Criada há 16 anos na Espanha, ela atrai anualmente geeks, nerds, empreendedores, gamers, cientistas e muitos outros criativos que reúnem-se para acompanhar centenas de atividades sobre Inovação, Ciência, Cultura e Entretenimento Digital. Essa pequena ferramenta tem o intuito de twittar o tempo regressivo para tal evento. ">
         <meta name="keywords" content="campus party, cpbr6, contador regressivo, campus party 2013, twitter, app, aplicativos"> 
         <meta name="author" content="Matheus Antônio Flauzino e Natanael Colacino">
